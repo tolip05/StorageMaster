@@ -1,0 +1,11 @@
+C:\Users\Kosta\source\repos\Storage\ExamPreparation03\bin\Debug\netcoreapp2.0\ExamPreparation03.deps.json
+C:\Users\Kosta\source\repos\Storage\ExamPreparation03\bin\Debug\netcoreapp2.0\ExamPreparation03.runtimeconfig.json
+C:\Users\Kosta\source\repos\Storage\ExamPreparation03\bin\Debug\netcoreapp2.0\ExamPreparation03.runtimeconfig.dev.json
+C:\Users\Kosta\source\repos\Storage\ExamPreparation03\bin\Debug\netcoreapp2.0\ExamPreparation03.dll
+C:\Users\Kosta\source\repos\Storage\ExamPreparation03\bin\Debug\netcoreapp2.0\ExamPreparation03.pdb
+C:\Users\Kosta\source\repos\Storage\ExamPreparation03\obj\Debug\netcoreapp2.0\ExamPreparation03.csprojAssemblyReference.cache
+C:\Users\Kosta\source\repos\Storage\ExamPreparation03\obj\Debug\netcoreapp2.0\ExamPreparation03.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\source\repos\Storage\ExamPreparation03\obj\Debug\netcoreapp2.0\ExamPreparation03.AssemblyInfoInputs.cache
+C:\Users\Kosta\source\repos\Storage\ExamPreparation03\obj\Debug\netcoreapp2.0\ExamPreparation03.AssemblyInfo.cs
+C:\Users\Kosta\source\repos\Storage\ExamPreparation03\obj\Debug\netcoreapp2.0\ExamPreparation03.dll
+C:\Users\Kosta\source\repos\Storage\ExamPreparation03\obj\Debug\netcoreapp2.0\ExamPreparation03.pdb
